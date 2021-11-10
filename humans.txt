@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    BuyMyMojo -- Owner -- @OwenQuinlan7
 
 # THANKS
 
@@ -12,4 +13,5 @@
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Caddy server, jQuery, Modernizr, Normalize.css
+    base is html5 boiler plate
